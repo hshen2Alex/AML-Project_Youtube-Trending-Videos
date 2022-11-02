@@ -4,6 +4,7 @@
 
 
 ## CSVs
+USvideos_initial.csv: Initial dataset from Kaggle.
 
 
 ## Visualizations
